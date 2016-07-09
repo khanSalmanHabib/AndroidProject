@@ -1,0 +1,72 @@
+[
+  {
+    "CounterId": 1,
+    "Company": "Unique Paribahan",
+    "Location": "Dhaka",
+    "Address": "Saidabad Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "01963622233",
+    "AreaCodeNumber": "02",
+    "PhoneNumber": "7540058"
+  },
+  {
+    "CounterId": 2,
+    "Company": "Unique Paribahan",
+    "Location": "Sylhet",
+    "Address": "Kadamtoli Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "01963622248",
+    "AreaCodeNumber": "0821",
+    "PhoneNumber": "724899"
+  },
+  {
+    "CounterId": 3,
+    "Company": "Unique Paribahan",
+    "Location": "Chittagong",
+    "Address": "BRTC Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "01963622253",
+    "AreaCodeNumber": "031",
+    "PhoneNumber": "611661"
+  },
+  {
+    "CounterId": 4,
+    "Company": "Greenline Paribahan",
+    "Location": "Dhaka",
+    "Address": "Fakirapul Bus Counter",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "9333606",
+    "AreaCodeNumber": "02",
+    "PhoneNumber": "9356506"
+  },
+  {
+    "CounterId": 5,
+    "Company": "Greenline Paribahan",
+    "Location": "Dhaka",
+    "Address": "Saidabad Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "7522739",
+    "AreaCodeNumber": "02",
+    "PhoneNumber": "7522739"
+  },
+  {
+    "CounterId": 6,
+    "Company": "Greenline Paribahan",
+    "Location": "Sylhet",
+    "Address": "Kadamtoli Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "0189551836",
+    "AreaCodeNumber": "0821",
+    "PhoneNumber": "720161"
+  },
+  {
+    "CounterId": 7,
+    "Company": "Greenline Paribahan",
+    "Location": "Chittagong",
+    "Address": "BRTC Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "0187210287",
+    "AreaCodeNumber": "031",
+    "PhoneNumber": "631288"
+  }
+]

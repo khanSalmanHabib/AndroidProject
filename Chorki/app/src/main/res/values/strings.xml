@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chorki,Live Wallpaper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="Chorki_wp_desc">Live wallpaper with Chorki simulation</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+
+
+</resources>

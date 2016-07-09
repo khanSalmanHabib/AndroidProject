@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<style>
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;	
+    background-color: #333;
+}
+
+li{
+    float: left;
+	display: inline-block;	
+	text-decoration: none !important;
+}
+
+li a {
+    display: inline-block;
+    color: white !important;
+    text-align: center;
+    padding: 14px 16px;
+	text-decoration: none !important;
+	
+}
+li a, .dropbtn {
+    display: inline-block;
+    color: white ;
+    text-align: center;
+    padding: 14px 16px;
+	width:160px;
+
+	
+}
+
+li a:hover, .dropdowni:hover .dropbtni {
+    background-color: red;
+	text-decoration: none !important;
+	width:160px;
+}
+
+li.dropdowni {
+    display: inline-block;
+}
+
+.dropdown-contenti {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-contenti a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-contenti a:hover {background-color: #f1f1f1}
+
+.dropdowni:hover .dropdown-contenti {
+    display: block;
+}
+</style>
+
+</head>
+
+<body>
+
+          <ul >
+                <li><a class="activei list-unstyled" href="#home">Home</a></li>
+                <li><a href="#news">News</a></li>
+                <li class="dropdowni">
+                    <a href="#" class="dropbtni">Dropdown</a>
+                    <div class="dropdown-contenti ">
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
+                    </div>
+                </li>
+            </ul>
+
+</body>
+</html>

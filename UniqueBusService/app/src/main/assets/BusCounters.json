@@ -1,0 +1,29 @@
+[
+  {
+    "CounterId": 1,
+    "Location": "Dhaka",
+    "Address": "Saidabad Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "01963622233",
+    "AreaCodeNumber": "02",
+    "PhoneNumber": "7540058"
+  },
+  {
+    "CounterId": 2,
+    "Location": "Sylhet",
+    "Address": "Kadamtoli Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "01963622248",
+    "AreaCodeNumber": "0821",
+    "PhoneNumber": "724899"
+  },
+  {
+    "CounterId": 3,
+    "Location": "Chittagong",
+    "Address": "BRTC Bus Terminal",
+    "CountryCodeNumber": "+880",
+    "MobileNumber": "01963622253",
+    "AreaCodeNumber": "031",
+    "PhoneNumber": "611661"
+  }
+]
